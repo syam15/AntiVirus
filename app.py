@@ -6,7 +6,7 @@ import time
 from PIL import Image, ImageTk
 
 # Ganti dengan API key VirusTotal Anda
-API_KEY = "9119c43113a2c9262833b034f64003bdf7824c478c515dd9b2f74df3284e33f0"
+API_KEY = "API_KEY_VIRUS_TOTAL"
 
 # Fungsi untuk memvalidasi API Key
 def validate_api_key():
