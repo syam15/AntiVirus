@@ -1,0 +1,9 @@
+
+
+
+=========================================
+pip install customtkinter requests pillow
+
+Ganti API KEY Sesuai dengan VirusTotal
+
+jalankan aplikasi: python app.py
